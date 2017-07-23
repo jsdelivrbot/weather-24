@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81ccacad-a15a-41c3-988a-e37734fe8ea2" name="Default" comment="Redux-Promisse in Action - Section 5, Lecture 58">
+    <list default="true" id="81ccacad-a15a-41c3-988a-e37734fe8ea2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/app.js" afterPath="$PROJECT_DIR$/src/components/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/weather_list.js" afterPath="$PROJECT_DIR$/src/containers/weather_list.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,8 +41,8 @@
       <file leaf-file-name="weather_list.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/weather_list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -379,7 +378,7 @@
       <workItem from="1494723647562" duration="184000" />
       <workItem from="1494726366592" duration="429000" />
       <workItem from="1494929048736" duration="4167000" />
-      <workItem from="1500738651617" duration="1368000" />
+      <workItem from="1500738651617" duration="2448000" />
     </task>
     <task id="LOCAL-00001" summary="App Overview and Planning - Section 5, Lecture 51">
       <created>1493237173188</created>
@@ -444,11 +443,25 @@
       <option name="project" value="LOCAL" />
       <updated>1500739258529</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Mapping Props to a Render Helper - Section 5, Lecture 62">
+      <created>1500740277026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1500740277026</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Adding Sparkline Charts - Section 5, Lecture 63">
+      <created>1500809878795</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1500809878795</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22729000" />
+    <option name="totallyTimeSpent" value="23809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -500,7 +513,9 @@
     <MESSAGE value="Ajax Requests with Axios - Section 5, Lecture 57" />
     <MESSAGE value="Redux-Promisse in Action - Section 5, Lecture 58" />
     <MESSAGE value="Building a List Container - Section 5, Lecture 61" />
-    <option name="LAST_COMMIT_MESSAGE" value="Building a List Container - Section 5, Lecture 61" />
+    <MESSAGE value="Mapping Props to a Render Helper - Section 5, Lecture 62" />
+    <MESSAGE value="Adding Sparkline Charts - Section 5, Lecture 63" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Sparkline Charts - Section 5, Lecture 63" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -896,8 +911,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/weather_list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="16" lean-forward="false" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
